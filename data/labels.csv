@@ -1,0 +1,4 @@
+Image,Plastic,Glass,Metal,Minimal_Packaging,Biodegradable,Energy_Star,Fairtrade
+image1.jpg,1,0,0,1,0,1,0
+image2.png,0,1,0,0,1,0,1
+image3.png,0,0,1,1,0,1,1
