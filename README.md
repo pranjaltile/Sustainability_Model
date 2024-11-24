@@ -1,4 +1,6 @@
 Sustainability Classifier
+
+
 🌍 Overview
 The Sustainability Classifier is a deep learning-based tool designed to assess the sustainability of products using image-based analysis. It evaluates features such as recyclable materials, eco-friendly packaging, and sustainability certifications. The tool also provides actionable recommendations to improve the product’s environmental footprint.
 
